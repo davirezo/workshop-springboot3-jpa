@@ -1,6 +1,6 @@
 # Projeto Spring Boot – API REST com JPA
 
-Este é um projeto back-end desenvolvido em Java utilizando Spring Boot, seguindo o padrão de API REST, com persistência de dados usando JPA / Hibernate. O projeto foi criado com foco em aprendizado e prática dos principais conceitos de desenvolvimento back-end, baseado no curso do Nelio Alves.
+Este é um projeto back-end desenvolvido em Java utilizando Spring Boot, seguindo o padrão de API REST, com persistência de dados usando JPA / Hibernate. O projeto foi criado com foco em aprendizado e prática dos principais conceitos de desenvolvimento back-end.
 
 ## 🚀 Tecnologias utilizadas
 
